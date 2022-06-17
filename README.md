@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+Full-stack developer, Queens, NYC
+</div>
 
-<!--
-**EdwinGuzman/EdwinGuzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Status
 
-Here are some ideas to get you started:
+Currently working at [NYPL.org](http://nypl.org).
+ 
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Leading the NYPL [Reservoir Design System](https://github.com/NYPL/nypl-design-system). Read the [Storybook Documentation](https://nypl.github.io/nypl-design-system/reservoir/v1/?path=/story/welcome--page) to find out more.
+
+## Side Projects
+
+- Leader of a Queens-based running club
+- Landscaping and garderning
