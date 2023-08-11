@@ -1,10 +1,10 @@
 <div align="center">
-Full-stack developer, Queens, NYC
+Technical Team Lead, Queens, NYC
 </div>
 
 ## Status
 
-Currently working at [NYPL.org](http://nypl.org).
+Currently working at [NYPL](http://nypl.org).
  
 ### Projects
 
@@ -12,5 +12,5 @@ Leading the NYPL [Reservoir Design System](https://github.com/NYPL/nypl-design-s
 
 ## Side Projects
 
-- Leader of a Queens-based running club
+- Co-founder of a Queens-based running club
 - Landscaping and garderning
